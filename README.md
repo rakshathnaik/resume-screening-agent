@@ -1,2 +1,2 @@
-# resume-screening-agent
-AI Agent built with Gemini and Gradio for the AI Agent Challenge.
+## 📄 Documentation
+[Download Full Documentation (PDF)](Project_Documentation.pdf)
